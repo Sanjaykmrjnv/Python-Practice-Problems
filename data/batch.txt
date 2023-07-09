@@ -1,0 +1,6 @@
+regno,name,marks
+1,Anil,28
+2,Sagar,
+3,Ganga,45
+4,,56
+5,Sanjay,54
